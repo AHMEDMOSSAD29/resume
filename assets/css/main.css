@@ -1133,7 +1133,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   font-family: 'Georgia', serif;  /* Use a serif font for elegance */
   font-size: 2.5em;  /* Larger font size for emphasis */
   font-weight: bold;  /* Bold text */
-  color: #34495e;  /* Dark grayish blue color */
+  color: #103544;  /* Dark grayish blue color */
   text-transform: capitalize;  /* Ensure proper capitalization */
   text-decoration: none;  /* Remove default underline from links */
   position: relative;  /* Position relative for pseudo-element */
@@ -1142,7 +1142,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .navbar-brand:hover {
-  color: #2f919e;  /* Change color on hover */
+  color: #00b4d9;  /* Change color on hover */
   transform: scale(1.05);  /* Slightly enlarge on hover */
 }
 
@@ -1151,7 +1151,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   position: absolute;
   width: 100%;
   height: 4px;
-  background-color: #2f919e;  /* Accent color for underline */
+  background-color: #00b4d9;  /* Accent color for underline */
   left: 0;
   bottom: -5px;
   transform: scaleX(0);  /* Start with no visible underline */
